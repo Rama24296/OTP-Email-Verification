@@ -1,6 +1,6 @@
 # OTP-Email-Verification
 
-This Python script sends One-Time Passwords (OTPs) via email using SMTP (Gmail) and verifies user authentication.
+This Python script sends **One-Time Passwords (OTPs)** via email using **SMTP (Gmail)** and verifies user authentication.
 
 ## 🚀 Features
 - ✅ Sends OTPs to user emails using SMTP (Gmail)
