@@ -24,6 +24,7 @@ This Python script sends One-Time Passwords (OTPs) via email using SMTP (Gmail) 
 python otp_verification.py
 
 ⚠️**Security Warning**
+
 ❌ **Do NOT hardcode email credentials** in the script.
 
 ✅ Use **environment variables** for storing your Gmail credentials securely.
