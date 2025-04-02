@@ -16,7 +16,7 @@ This Python script sends **One-Time Passwords (OTPs)** via email using **SMTP (G
 ## 🔧 Installation
 **1. Clone the repository:**
    
-   git clone https://github.com/your-username/otp-email-verification.git
+   git clone https://github.com/Rama24296/OTP-Email-Verification
    cd otp-email-verification
 
 **2.Run the Script:**
