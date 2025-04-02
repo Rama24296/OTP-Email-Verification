@@ -29,20 +29,24 @@ python otp_verification.py
 ✅ Use **environment variables** for storing your Gmail credentials securely.
 
 **Example:**
+
 export EMAIL_USER="lingamguntarama@gmail.com"
+
 export EMAIL_PASS="hmlz mrbv okeg ufrm"**
+
 **🔍 How It Works**
+
 1. The script asks how many users need OTPs.
 
 2.	For each user:
 
-   	Generates a random 4-digit OTP
+       	Generates a random 4-digit OTP
    
-   	Sends the OTP to the user’s email
+       	Sends the OTP to the user’s email
    
-   	Asks the user to input the OTP
+       	Asks the user to input the OTP
    
-   	Provides 3 attempts for verification
+       	Provides 3 attempts for verification
 
 3.	If the user enters the correct OTP → Success ✅
 
