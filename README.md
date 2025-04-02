@@ -3,10 +3,10 @@
 This Python script sends **One-Time Passwords (OTPs)** via email using **SMTP (Gmail)** and verifies user authentication.
 
 ## 🚀 Features
-- ✅ Sends OTPs to user emails using SMTP (Gmail)
-- ✅ Allows multiple users to receive OTPs
-- ✅ Provides 3 attempts for OTP verification
-- ✅ Secure email transmission with TLS encryption
+- ✅ Sends OTPs to user emails using **SMTP (Gmail)**
+- ✅ Allows **multiple users** to receive OTPs
+- ✅ Provides **3 attempts** for OTP verification
+- ✅ Secure email transmission with **TLS encryption**
 
 ## 📌 Requirements
 - Python 3.x
