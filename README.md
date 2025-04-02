@@ -32,7 +32,7 @@ python otp_verification.py
 
 export EMAIL_USER="lingamguntarama@gmail.com"
 
-export EMAIL_PASS="hmlz mrbv okeg ufrm"**
+export EMAIL_PASS=**"hmlz mrbv okeg ufrm"**
 
 **🔍 How It Works**
 
